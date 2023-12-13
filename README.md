@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 
 
 **build tools**
-![webpack]https://img.shields.io/badge/CSS-1572B6?&logo=webpack&labelColor=000)
-![Gulp](https://img.shields.io/badge/CSS-1572B6?&logo=Gulp&labelColor=000)
-![vite](https://img.shields.io/badge/CSS-1572B6?&logo=vite&labelColor=000)
-![Rollup](https://img.shields.io/badge/CSS-1572B6?&logo=Rollup&labelColor=000)
-![Babel](https://img.shields.io/badge/CSS-1572B6?&logo=Babel&labelColor=000)
+![webpack](https://img.shields.io/badge/webpack-1572B6?&logo=webpack&labelColor=000)
+![Gulp](https://img.shields.io/badge/Gulp-1572B6?&logo=Gulp&labelColor=000)
+![vite](https://img.shields.io/badge/vite-1572B6?&logo=vite&labelColor=000)
+![Rollup](https://img.shields.io/badge/Rollup-1572B6?&logo=Rollup&labelColor=000)
+![Babel](https://img.shields.io/badge/Babel-1572B6?&logo=Babel&labelColor=000)
 
 
 
