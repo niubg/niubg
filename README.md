@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![webpack](https://img.shields.io/badge/webpack-8dd6f980?&logo=webpack&labelColor=000)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?&logo=Gulp&labelColor=000)
 ![vite](https://img.shields.io/badge/vite-157200?&logo=vite&labelColor=000)
-![Rollup](https://img.shields.io/badge/Rollup-e63335?&logo=rollupjs&labelColor=000)
+![Rollup](https://img.shields.io/badge/Rollup-EC4C3F?&logo=rollupjs&labelColor=000)
 ![Babel](https://img.shields.io/badge/Babel-f9dc3e?&logo=Babel&labelColor=000)
 
 
