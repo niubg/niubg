@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 **Framework**
 
 
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs&labelColor=000)
-![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
+![Vue](https://img.shields.io/badge/-Vue-42d392?&logo=Vuedotjs&labelColor=000)
+![React](https://img.shields.io/badge/React-087ea4?&logo=React&labelColor=000)
 ![NextJS](https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000)
 ![Egg](https://img.shields.io/badge/Egg.js-8CC84B?&logo=Node.js&labelColor=000)
 
