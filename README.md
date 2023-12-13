@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi niubg 👋
 
 <!--
 **niubg/niubg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,12 +40,7 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs&labelColor=000)
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
 ![NextJS](https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000)
-
-![ethers.js](https://img.shields.io/badge/hardhat-000?&logo=ethereum&labelColor=000)
-![ethers.js](https://img.shields.io/badge/ethers.js-000?&logo=ethereum&labelColor=000)
-![web3.js](https://img.shields.io/badge/web3.js-000?&logo=web3dotjs&labelColor=000)
-
-![NestJS](https://img.shields.io/badge/NestJs-000?&logo=NestJS&labelColor=000)
+![Egg](https://img.shields.io/badge/Egg.js-000?&logo=EGGJS&labelColor=000)
 
 
 
