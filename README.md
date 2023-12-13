@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 
 
 
-![webpack](https://img.shields.io/badge/webpack-1572B6?&logo=webpack&labelColor=000)
-![Gulp](https://img.shields.io/badge/Gulp-1572B6?&logo=Gulp&labelColor=000)
-![vite](https://img.shields.io/badge/vite-1572B6?&logo=vite&labelColor=000)
-![Rollup](https://img.shields.io/badge/Rollup-1572B6?&logo=Rollup&labelColor=000)
+![webpack](https://img.shields.io/badge/webpack-000?&logo=webpack&labelColor=000)
+![Gulp](https://img.shields.io/badge/Gulp-1952B6?&logo=Gulp&labelColor=000)
+![vite](https://img.shields.io/badge/vite-157200?&logo=vite&labelColor=000)
+![Rollup](https://img.shields.io/badge/Rollup-1654B6?&logo=Rollup&labelColor=000)
 ![Babel](https://img.shields.io/badge/Babel-1572B6?&logo=Babel&labelColor=000)
 
 
