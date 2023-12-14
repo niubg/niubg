@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Nodejs   ](https://img.shields.io/badge/Nodejs%20%20%20%20-000?&logo=nodedotjs&labelColor=000)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?&logo=HTML5&labelColor=000)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=CSS3&labelColor=000)
-![Less](https://img.shields.io/badge/CSS-1572B6?&logo=Less&labelColor=000)
+![Less](https://img.shields.io/badge/less-1572B6?&logo=Less&labelColor=000)
 
 
 
